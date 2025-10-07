@@ -4,11 +4,11 @@ Here are deposited the customized scripts associated to the manuscript : De Fili
 
 In the section "Strata", there are the input files and the customized scripts to delimite evolutionary strata in all pseudohomothallic strains.
 
-In the section "Tree",  there are the input files and the customized scripts to delimite evolutionary strata in all pseudohomothallic strains.
-
-In the section "Heterozygosity",  there are the input files and the customized scripts to define heterozygosity islands on autosomes in pseudohomothallic strains.
+In the section "Tree",  there are the input files and the customized scripts to draw gene trees.
 
 In the section "LD",  there is the customized script to plot linkage desequilibrium heatmaps.
+
+In the section "Heterozygosity",  there are the input files and the customized scripts to define heterozygosity islands on autosomes in pseudohomothallic strains.
 
 In the section "TE", there are the customized scripts to compute transposable element density in overlapping 10 kb sliding windows for all long read assemblies.
 
