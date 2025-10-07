@@ -1,6 +1,6 @@
 # Schizothecium_strata
 
-This is the code for the manuscript : De Filippo E., Chahine Elizabeth, Legendre--Despas J., Snirc A., Labat A., Michel P., Grognet P, Gautier V., Levert E., Lalanne C., Silar P., Giraud T., Hartmann FE. Stepwise recombination suppression around the mating-type locus associated with a diploid-like life cycle in <i>Schizothecium</i> fungi. 2025 bioRxiv https://doi.org/10.1101/2025.04.18.645578 
+Here are deposited the customized scripts associated to the manuscript : De Filippo E., Chahine Elizabeth, Legendre--Despas J., Snirc A., Labat A., Michel P., Grognet P, Gautier V., Levert E., Lalanne C., Silar P., Giraud T., Hartmann FE. Stepwise recombination suppression around the mating-type locus associated with a diploid-like life cycle in <i>Schizothecium</i> fungi. 2025 bioRxiv https://doi.org/10.1101/2025.04.18.645578 
 
 In the section "Strata", there are the customized scripts to delimite evolutionary strata
 
