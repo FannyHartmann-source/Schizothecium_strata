@@ -9,9 +9,8 @@ library(mcp)
 library(rjags)
 
 #strains=c("S1.PSN779.h","S1.CBS81571","S2.CBS26270.h","S5.PSQ32","S6.PSN1067.h","S8.PSN644","S9.PSN707","S12.PSN663","S13.PSN1042","S3.PSN1070","S16.PSN1310.h","S10.PSN684.h","S15.PSN377","S4.PSN936.h")
-#path <- "$path_to_strains"
+path <- "$path_to_strains"
 strains=c("S1.PSN779.h")
-path <-"/Volumes/Elsa_Donnees/Article_Strates/Depot/Heterozygosity_txt/MAT_chromosome"
 
 for (i in strains) {
   
