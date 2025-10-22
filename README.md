@@ -10,5 +10,3 @@ In the section "LD",  there is the customized script to plot linkage desequilibr
 
 In the section "Heterozygosity",  there are the input files and the customized scripts to define heterozygosity islands on autosomes in pseudohomothallic strains.
 
-In the section "TE", there are the customized scripts to compute transposable element density in overlapping 10 kb sliding windows for all long read assemblies.
-
